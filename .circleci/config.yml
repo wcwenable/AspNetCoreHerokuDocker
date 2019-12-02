@@ -9,7 +9,7 @@ jobs:
 
       - run:
           name: Greeting
-          command: echo Hello, world.
+          command: echo Hello, 时解之.
 
       - run:
           name: Print the Current Time
